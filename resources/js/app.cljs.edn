@@ -1,0 +1,3 @@
+{:require  [rum-docs.app]
+ :init-fns [rum-docs.app/init]
+ :compiler-options {:asset-path "js/app.out"}}
